@@ -83,9 +83,10 @@ I'm Marco Mina from Egypt.<br><br>
 <h3 align="center">🔥 My GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MARCO-Develper&theme=neon-dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Marco-Develper&theme=vue-dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MARCO-Develper.MARCO-Develper&left_text=Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Marco-Develper.Marco-Develper&left_text=Flutter" />
 </p>
+
