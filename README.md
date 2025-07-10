@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marco-mina-515369262" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="30" />
   </a>
   <a href="mailto:marcominamories@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" />
@@ -28,10 +28,14 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="30" />
   </a>
   <a href="https://wa.me/201234567890" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="30" />
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="30" />
   </a>
 </p>
-   <img src="https://visitor-badge.laobi.icu/badge?page_id=Marco-Develper.Marco-Develper&left_text=Flutter" height="30" />
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Marco-Develper.Marco-Develper&left_text=Flutter" height="30" />
+</p>
+
 
 ---
 
