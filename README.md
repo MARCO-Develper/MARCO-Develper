@@ -30,6 +30,7 @@
   <a href="https://wa.me/201234567890" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="30" />
   </a>
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=Marco-Develper.Marco-Develper&left_text=Flutter" height="30" />
 </p>
 
 ---
@@ -83,10 +84,8 @@ I'm Marco Mina from Egypt.<br><br>
 <h3 align="center">🔥 My GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Marco-Develper&theme=vue-dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marco-Develper&show_icons=true&theme=radical" alt="Marco's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-Develper&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Marco-Develper.Marco-Develper&left_text=Flutter" />
-</p>
 
