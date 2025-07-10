@@ -30,8 +30,8 @@
   <a href="https://wa.me/201234567890" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="30" />
   </a>
-   <img src="https://visitor-badge.laobi.icu/badge?page_id=Marco-Develper.Marco-Develper&left_text=Flutter" height="30" />
 </p>
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=Marco-Develper.Marco-Develper&left_text=Flutter" height="30" />
 
 ---
 
